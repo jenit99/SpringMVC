@@ -12,6 +12,7 @@
 <header>
 <h1>Javascript Events</h1>
 </header>
+<h3> I seriously Doubt my skill on keeping track of this record.
 <main>
 <h4>Add Numbers:</h4>
 <p><input id="num-one"> + <input id="num-two"></p>
